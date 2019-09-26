@@ -29,5 +29,3 @@
 ## 実行環境  
 Python 3.7.1  
 必要なライブラリについては、__requirements.txt__を参照の上適宜インストールしてください。    
-
-About libraries, please refer to __requirements.txt__
